@@ -1,0 +1,123 @@
+{
+  "module_number": 1,
+  "title": "Introducción Conceptual a la IA Generativa",
+  "subtitle": "Entendiendo el pasado, presente y futuro de la Inteligencia Artificial, y aplicando los conceptos a un caso práctico.",
+  "sections": [
+    {
+      "title": "1. Historia y Evolución de la IA Generativa",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La IA Generativa es una tecnología de vanguardia con raíces profundas en la historia de la computación. Su evolución ha sido exponencial, marcada por hitos clave:"
+        },
+        {
+          "type": "card",
+          "title": "Orígenes (1950-1990)",
+          "text": "Las raíces teóricas se remontan a Alan Turing. Los primeros ejemplos prácticos, como **ELIZA** (1960s), operaban con sistemas basados en reglas, simulando conversaciones de forma rudimentaria. El desarrollo del **Deep Learning** en los 90 por pioneros como Geoffrey Hinton, Yoshua Bengio y Yann LeCun sentó las bases para la revolución venidera."
+        },
+        {
+          "type": "card",
+          "title": "La Revolución del Deep Learning (2014-Presente)",
+          "items": [
+            "<b>2014 - Redes Generativas Antagónicas (GANs):</b> Inventadas por Ian Goodfellow, revolucionaron la generación de imágenes.",
+            "<b>2017 - Arquitectura \"Transformer\":</b> El paper \"Attention Is All You Need\" de Google presentó la arquitectura que es la base de todos los LLMs modernos.",
+            "<b>2020s - Modelos de Difusión:</b> La tecnología detrás de los generadores de imágenes de más alta calidad como DALL-E 2, Midjourney y Stable Diffusion."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Conceptos Fundamentales",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Estos son los pilares sobre los que se construye la IA moderna. (Fuente: `GLOSARIO_GENERAL.md`)"
+        },
+        {
+          "type": "card",
+          "title": "Machine Learning (Aprendizaje Automático)",
+          "text": "Campo de la IA donde se desarrollan algoritmos que permiten a las computadoras aprender de los datos sin ser explícitamente programadas para identificar patrones y hacer predicciones."
+        },
+        {
+          "type": "card",
+          "title": "Deep Learning (Aprendizaje Profundo)",
+          "text": "Subcampo del Machine Learning basado en redes neuronales con múltiples capas (\"profundas\"). Es la tecnología fundamental detrás de los modelos de IA generativa más avanzados."
+        },
+        {
+          "type": "card",
+          "title": "Transformer",
+          "text": "Una arquitectura de red neuronal que se ha convertido en el estándar para los modelos de lenguaje grandes. Su innovación clave es el \"mecanismo de atención\", que le permite ponderar la importancia de diferentes palabras en una secuencia."
+        }
+      ]
+    },
+    {
+        "title": "3. Herramientas Esenciales del Curso",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Para poder participar activamente en las sesiones, es <b>esencial</b> que crees cuentas <b>gratuitas</b> en las siguientes plataformas antes de la primera clase. (Fuente: `MANUAL_ESTUDIANTE.md`)"
+            },
+            {
+                "type": "list",
+                "items": [
+                    "<b>ChatGPT:</b> <a href='https://chat.openai.com' target='_blank'>https://chat.openai.com</a>",
+                    "<b>Gemini:</b> <a href='https://gemini.google.com' target='_blank'>https://gemini.google.com</a>",
+                    "<b>Claude:</b> <a href='https://claude.ai' target='_blank'>https://claude.ai</a>",
+                    "<b>Gamma:</b> <a href='https://gamma.app' target='_blank'>https://gamma.app</a>",
+                    "<b>Microsoft Copilot (Bing):</b> <a href='https://copilot.microsoft.com' target='_blank'>https://copilot.microsoft.com</a>"
+                ]
+            }
+        ]
+    },
+    {
+      "title": "4. Laboratorio: Primeros Pasos Prácticos",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El objetivo de este laboratorio es perder el miedo a la herramienta y empezar a tratarla como un asistente. (Fuente: `Ejercicios_y_Plantillas.txt`)"
+        },
+        {
+          "type": "card",
+          "title": "Ejercicio 1: El Curioso Insaciable",
+          "items": [
+            "Elige un tema de ingeniería que te apasione (ej. materiales compuestos, sistemas de control, termodinámica).",
+            "Inicia una conversación con Gemini o ChatGPT sobre ese tema.",
+            "Haz al menos 5 preguntas de seguimiento, cada una más específica que la anterior, para profundizar en un sub-tema.",
+            "Guarda la conversación. Analiza cómo la calidad de tus preguntas influyó en las respuestas."
+          ]
+        },
+        {
+          "type": "card",
+          "title": "Ejercicio 2: El Solucionador de Problemas",
+          "items": [
+            "Piensa en una tarea repetitiva de tu trabajo (ej. escribir un correo para solicitar información, crear una lista de verificación, resumir un informe).",
+            "Pídele a la IA que te dé 3 borradores o soluciones diferentes para esa tarea.",
+            "Elige la mejor opción y pídele que la refine con más detalles."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. Bibliografía y Recursos para Profundizar",
+      "content": [
+        {
+          "type": "bibliography",
+          "items": [
+            {
+              "title": \"\"Attention Is All You Need\" (Vaswani et al., 2017)\",
+              "author": "El paper que introdujo la arquitectura Transformer. Lectura técnica pero esencial."
+            },
+            {
+              "title": \"\"Generative Adversarial Nets\" (Goodfellow et al., 2014)\",
+              "author": "El paper que propuso el marco de las GANs, clave para la generación de imágenes."
+            },
+            {
+              "title": "Inteligencia Artificial: Guía para seres pensantes",
+              "author": "Libro de Melanie Mitchell que ofrece una visión clara y desmitificada de la IA."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
