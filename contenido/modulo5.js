@@ -113,40 +113,20 @@ const moduleData = {
       ]
     },
     {
-      "title": "Contenido Extra (Video)",
+      "title": "Material Extra - Modulo 5 - Proyecto de Visualizador CSV",
       "content": [
         {
-          "type": "paragraph",
-          "text": "Un walkthrough completo del flujo de producción, desde la idea hasta la presentación final de un proyecto de IA."
-        },
-        {
           "type": "video",
-          "youtubeId": "dQw4w9WgXcQ"
+          "youtubeId": "H4eTXCaYQSM"
         }
       ]
     },
     {
-      "title": "Galería del Módulo",
+      "title": "Siguiente Contenido",
       "content": [
         {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "imagenes/10.jpg",
-              "alt": "Flujo de producción con IA",
-              "caption": "Diagrama del flujo de trabajo de la idea al producto."
-            },
-            {
-              "src": "imagenes/11.jpg",
-              "alt": "Ejemplo de código generado por IA",
-              "caption": "Captura de pantalla de un editor de código con IA generando JavaScript."
-            },
-            {
-              "src": "imagenes/12.jpg",
-              "alt": "Presentación final del proyecto",
-              "caption": "Diapositiva de una presentación de proyecto creada con Gamma.app."
-            }
-          ]
+          "type": "card",
+          "text": "<a href='../modulos/modulo6.html' class='btn'>Ir al Módulo 6</a>"
         }
       ]
     }

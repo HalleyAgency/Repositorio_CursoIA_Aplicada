@@ -110,6 +110,24 @@ const moduleData = {
         ]
     },
     {
+      "title": "Material Extra - Modulo 2 - Prompt Engineering",
+      "content": [
+        {
+          "type": "video",
+          "youtubeId": "Tnf-xBYuL5c"
+        }
+      ]
+    },
+    {
+      "title": "Siguiente Contenido",
+      "content": [
+        {
+          "type": "card",
+          "text": "<a href='../modulos/modulo3.html' class='btn'>Ir al Módulo 3</a>"
+        }
+      ]
+    },
+    {
       "title": "5. Bibliografía y Recursos para Profundizar",
       "content": [
         {
@@ -139,43 +157,6 @@ const moduleData = {
         }
       ]
     },
-    {
-      "title": "Contenido Extra (Video)",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Una demostración práctica de las técnicas de Prompt Engineering."
-        },
-        {
-          "type": "video",
-          "youtubeId": "d_q_d0D2G3w"
-        }
-      ]
-    },
-    {
-      "title": "Galería del Módulo",
-      "content": [
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "imagenes/4.jpg",
-              "alt": "Imagen conceptual de Prompt Engineering 1",
-              "caption": "Diagrama del framework C.R.A.F.T."
-            },
-            {
-              "src": "imagenes/5.jpg",
-              "alt": "Imagen conceptual de Prompt Engineering 2",
-              "caption": "Ejemplo de un PDR bien estructurado."
-            },
-            {
-              "src": "imagenes/6.jpg",
-              "alt": "Imagen conceptual de Prompt Engineering 3",
-              "caption": "Construcción de un agente personalizado."
-            }
-          ]
-        }
-      ]
-    }
+
   ]
 }

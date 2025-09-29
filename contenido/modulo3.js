@@ -75,6 +75,33 @@ const moduleData = {
       ]
     },
     {
+      "title": "Material Extra - Modulo 3 - Agentes CLI",
+      "content": [
+        {
+          "type": "video",
+          "youtubeId": "4XOQlTgxKN8"
+        }
+      ]
+    },
+    {
+      "title": "Material Extra - Modulo 3 - PRD y Organizar Documentos.",
+      "content": [
+        {
+          "type": "video",
+          "youtubeId": "V7WU95JuWac"
+        }
+      ]
+    },
+    {
+      "title": "Siguiente Contenido",
+      "content": [
+        {
+          "type": "card",
+          "text": "<a href='../modulos/modulo4.html' class='btn'>Ir al Módulo 4</a>"
+        }
+      ]
+    },
+    {
       "title": "5. Bibliografía y Herramientas",
       "content": [
         {
@@ -100,43 +127,6 @@ const moduleData = {
         }
       ]
     },
-    {
-      "title": "Contenido Extra (Video)",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Un tutorial sobre cómo usar la IA para organizar archivos."
-        },
-        {
-          "type": "video",
-          "youtubeId": "L2P2q_c_rvo"
-        }
-      ]
-    },
-    {
-      "title": "Galería del Módulo",
-      "content": [
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "imagenes/7.jpg",
-              "alt": "Imagen conceptual de gestión de archivos 1",
-              "caption": "Flujo de trabajo de un indexador de proyectos."
-            },
-            {
-              "src": "imagenes/8.jpg",
-              "alt": "Imagen conceptual de gestión de archivos 2",
-              "caption": "Ejemplo de un README.md generado por IA."
-            },
-            {
-              "src": "imagenes/9.jpg",
-              "alt": "Imagen conceptual de gestión de archivos 3",
-              "caption": "Integración de la IA en un editor de código."
-            }
-          ]
-        }
-      ]
-    }
+
   ]
 }

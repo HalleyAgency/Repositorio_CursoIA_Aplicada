@@ -99,6 +99,24 @@ const moduleData = {
       ]
     },
     {
+      "title": "Material Extra - Modulo 4 - Explorando Whisk",
+      "content": [
+        {
+          "type": "video",
+          "youtubeId": "4O8PtRdQKXs"
+        }
+      ]
+    },
+    {
+      "title": "Siguiente Contenido",
+      "content": [
+        {
+          "type": "card",
+          "text": "<a href='../modulos/modulo5.html' class='btn'>Ir al Módulo 5</a>"
+        }
+      ]
+    },
+    {
       "title": "6. Bibliografía y Herramientas",
       "content": [
         {
@@ -124,43 +142,6 @@ const moduleData = {
         }
       ]
     },
-    {
-      "title": "Contenido Extra (Video)",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Un tutorial sobre cómo generar imágenes y presentaciones con IA."
-        },
-        {
-          "type": "video",
-          "youtubeId": "s_g-g_q_c9s"
-        }
-      ]
-    },
-    {
-      "title": "Galería del Módulo",
-      "content": [
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "imagenes/1.jpg",
-              "alt": "Imagen generada por IA 1",
-              "caption": "Logo para una empresa de consultoría ambiental."
-            },
-            {
-              "src": "imagenes/2.jpg",
-              "alt": "Imagen generada por IA 2",
-              "caption": "Concepto de un dron de reparto autónomo."
-            },
-            {
-              "src": "imagenes/3.jpg",
-              "alt": "Imagen generada por IA 3",
-              "caption": "Diapositiva de una presentación generada con Gamma.app."
-            }
-          ]
-        }
-      ]
-    }
+
   ]
 }

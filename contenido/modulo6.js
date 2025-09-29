@@ -102,40 +102,11 @@ const moduleData = {
       ]
     },
     {
-      "title": "Contenido Extra (Video)",
+      "title": "Fin del Curso",
       "content": [
         {
-          "type": "paragraph",
-          "text": "Consejos para presentar tu proyecto final de IA."
-        },
-        {
-          "type": "video",
-          "youtubeId": "c-M2hs3n_fA"
-        }
-      ]
-    },
-    {
-      "title": "Galería del Módulo",
-      "content": [
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "imagenes/7.jpg",
-              "alt": "Imagen de proyecto final 1",
-              "caption": "Ejemplo de un README.md bien documentado."
-            },
-            {
-              "src": "imagenes/8.jpg",
-              "alt": "Imagen de proyecto final 2",
-              "caption": "Presentación de un proyecto de IA a stakeholders."
-            },
-            {
-              "src": 'imagenes/9.jpg',
-              "alt": "Imagen de proyecto final 3",
-              "caption": "Portafolio de proyectos de IA."
-            }
-          ]
+          "type": "card",
+          "text": "<a href='../multimedia.html' class='btn'>Ir a Material Extra</a>"
         }
       ]
     }

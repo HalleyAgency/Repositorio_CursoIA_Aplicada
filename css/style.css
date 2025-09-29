@@ -149,6 +149,29 @@ main {
     color: var(--card-bg-color);
 }
 
+.cta-button-secondary {
+    background-color: transparent;
+    color: var(--primary-color);
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 1.1rem;
+    border: 2px solid var(--primary-color);
+    transition: all 0.3s ease;
+}
+
+.cta-button-secondary:hover {
+    background-color: var(--primary-color);
+    color: var(--card-bg-color);
+}
+
+.hero-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
 /* Module Shortcuts */
 .module-shortcuts {
     text-align: center;

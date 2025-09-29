@@ -112,6 +112,24 @@ const moduleData = {
       ]
     },
     {
+      "title": "Material Extra - Modulo 1 - Repaso de Conceptos.",
+      "content": [
+        {
+          "type": "video",
+          "youtubeId": "SVU4IPWqeV0"
+        }
+      ]
+    },
+    {
+      "title": "Siguiente Contenido",
+      "content": [
+        {
+          "type": "card",
+          "text": "<a href='../modulos/modulo2.html' class='btn'>Ir al Módulo 2</a>"
+        }
+      ]
+    },
+    {
       "title": "5. Bibliografía y Recursos Fundamentales",
       "content": [
         {
@@ -141,43 +159,6 @@ const moduleData = {
         }
       ]
     },
-    {
-      "title": "Contenido Extra (Video)",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Una explicación visual de los conceptos clave de este módulo."
-        },
-        {
-          "type": "video",
-          "youtubeId": "C_78Cx_K_GY" 
-        }
-      ]
-    },
-    {
-      "title": "Galería del Módulo",
-      "content": [
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "imagenes/1.jpg",
-              "alt": "Imagen conceptual de IA 1",
-              "caption": "Visualización de una red neuronal."
-            },
-            {
-              "src": "imagenes/2.jpg",
-              "alt": "Imagen conceptual de IA 2",
-              "caption": "Abstracción de datos y algoritmos."
-            },
-            {
-              "src": "imagenes/3.jpg",
-              "alt": "Imagen conceptual de IA 3",
-              "caption": "Interacción humano-robot."
-            }
-          ]
-        }
-      ]
-    }
+
   ]
 }
